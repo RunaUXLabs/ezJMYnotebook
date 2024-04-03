@@ -38,7 +38,7 @@
 
 | 무한 스크롤 및 더 보기 | 도서 기록 | 독서 중 기록 수정 -> 독서 완료 | 독서 완료 기록 수정 -> 독서 중 |
 |---|---|---|---|
-| <img src="https://github.com/spaceyoung/notebook/assets/154400292/2e5b14b1-d878-4408-831e-d6b93cc0e1a1" /> | <img src="https://github.com/spaceyoung/notebook/assets/154400292/833b8d88-44f0-47da-a387-f8c1fccc2de4" /> | <img src="https://github.com/spaceyoung/notebook/assets/154400292/a775a173-f57e-4efd-a2ca-fc5a38d62cb3" /> | <img src="https://github.com/spaceyoung/notebook/assets/154400292/6cc195cc-811f-4f8c-b709-0aa337662729" /> |
+| <img src="https://github.com/spaceyoung/notebook/assets/154400292/2e5b14b1-d878-4408-831e-d6b93cc0e1a1" /> | <img src="https://github.com/spaceyoung/notebook/assets/154400292/833b8d88-44f0-47da-a387-f8c1fccc2de4" /> | <img src="https://github.com/spaceyoung/notebook/assets/154400292/6cc195cc-811f-4f8c-b709-0aa337662729" /> | <img src="https://github.com/spaceyoung/notebook/assets/154400292/a775a173-f57e-4efd-a2ca-fc5a38d62cb3" /> |
 <br>
 
 ## 🛠 사용 기술
